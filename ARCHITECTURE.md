@@ -1,5 +1,5 @@
-# Proposed Inventory Optimization workflow
+# Inventory Optimization: proposed workflow
 
-The [first-quarter proposal](./README.md) describes the merchant problem, 30/60/90-day delivery plan, recommendation contract, and proposed workflow. It builds on existing forecasting and distribution capabilities, with explicit confirmation before every write.
+My [first-quarter proposal](./README.md) brings together the merchant problem, 30/60/90-day plan, recommendation contract, and workflow diagrams. I would build on existing forecasting and distribution capabilities, with explicit confirmation before every write.
 
-The diagrams illustrate the proposed pilot, not ShipBob's internal architecture. Seven- and thirty-day pilot reviews start at merchant exposure; physical outcomes require sufficient transfer, receiving, and demand time.
+The diagrams describe the proposed pilot; internal interfaces require validation with the team. Pilot reviews occur seven and thirty days after merchant exposure. Physical outcomes need additional time for transfers, receiving, and demand.
