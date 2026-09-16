@@ -1,3 +1,5 @@
-# Architecture
+# Proposed Inventory Optimization workflow
 
-See [README.md](./README.md) for the current page: **first 90 days Inventory Optimization deliverable** (recommendation object, instrumentation, confirm-before-write, day-7 / day-30 rollout-or-stop). The system diagram on that page is the shape of the bet, not a full platform redesign.
+The [first-quarter proposal](./README.md) describes the merchant problem, 30/60/90-day delivery plan, recommendation contract, and proposed workflow. It builds on existing forecasting and distribution capabilities, with explicit confirmation before every write.
+
+The diagrams illustrate the proposed pilot, not ShipBob's internal architecture. Seven- and thirty-day pilot reviews start at merchant exposure; physical outcomes require sufficient transfer, receiving, and demand time.
